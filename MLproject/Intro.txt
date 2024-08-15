@@ -1,0 +1,30 @@
+Parkinson’s Disease (PD) is a neurological disorder marked by decreased dopamine levels in the brain. The major symptoms of Parkinson's disease are Shaking, Moving slowly, Stiff muscles, Trouble balancing, Walking changes, Less facial expression, Speech and swallowing problems. Unfortunately, there is no current cure and in most of the cases disease worsens over time. Early prediction of its progression can significantly enhance patient care, allowing for timely interventions and personalized treatment plans. Since PD patients exhibit characteristic vocal features, voice recordings are a useful and tool for diagnosis
+Importing Data: Gathered data from relevant sources.
+Missing Value Handling: Identified and addressed missing values and inconsistencies in the dataset.
+Data Cleaning: Processed and cleaned data by replacing missing or inconsistent values with appropriate ones.
+Data Transformation: Applied transformations such as normalization to prepare the data for machine learning algorithms.
+Feature Scaling: Ensured consistency by scaling features to have similar ranges, aiding model performance.
+Encoding Categorical Variables: Converted categorical variables into numerical values for model compatibility.
+Train-Test Split: Divided the preprocessed data into training and testing sets to assess model performance accurately.
+
+
+Libraries:
+1. Pandas: Pandas is a powerful data manipulation and analysis library for Python. It provides data structures and functions for handling structured data and performing data analysis tasks such as data cleaning, manipulation, and aggregation.
+2. NumPy: NumPy is a fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
+
+3. matplotlib.pyplot: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. `pyplot` is a sub-module of Matplotlib that provides a matlab-like interface for creating plots and visualizations.
+4. Seaborn: Seaborn is a statistical data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+ Tools:
+1. scikit-learn (sklearn): Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It includes various algorithms for classification, regression, clustering, dimensionality reduction, and model selection.
+2. scipy.stats: Scipy is a scientific computing library for Python that builds on NumPy. The `stats` module in Scipy provides a large number of probability distributions and statistical functions for analyzing data and performing statistical tests.
+
+
+
+
+
+
+
+
+
+
+

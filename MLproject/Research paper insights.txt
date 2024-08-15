@@ -1,0 +1,13 @@
+The main deficits of PD speech are loss of intensity, monotony of pitch and loudness, reduced stress, inappropriate silences, short rushes of speech, variable rate, imprecise consonant articulation, and harsh and breathy voice (dysphonia).
+
+The range of voice related symptoms is promising for a potential detection tool because recording voice data is non-invasive and can be done easily with mobile devices.
+
+The mRMR technique yielded an array of ranked features indexed from highest to lowest predictive correlation on the labeled data
+
+1. KNN
+
+Parkinson disease (PD), a neurodegenerative disorder of CNS system, also produces movement disorder. In the primary stage when nerve cells or neurons of the brain become impaired, people may begin to notice symptoms like tremor, stiffness in limb or trunk of the body, movement issues, or impaired balance. With the progression of the disease, people may have difficulty in walking, talking, orcompleting other simple tasks. PD has no cure but several treatments are known to provide relief from the symptoms. PD affects brain cells that produce Dopamine, a neurotransmitter, which is responsible for coordinate and control muscle activity
+
+onset pd- for people below 50 years.
+
+The symptoms of PD can be classified into two types i.e. non-motor and motor symptoms. Many people are aware of the motor symptoms as they can be visually perceived by human beings. These symptoms are also called as cardinal symptoms, these include resting tremor, slowness of movement(bradykinesia), postural instability (balance problems) and rigidity [2]. It is now established that there exists a timespan in which the non-motor symptoms can be observed. This symptoms are called as dopamine-non-responsive symptoms. These symptoms include cognitive impairment, sleep difficulties, loss of sense of smell, constipation, speech and swallowing problems, unexplained pains, drooling, constipation and low blood pressure when standing. I
